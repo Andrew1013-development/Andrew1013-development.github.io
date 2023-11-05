@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "A new blog, a new start"
+date: 2023-11-05 17:30:00 +0700
+---
+a
